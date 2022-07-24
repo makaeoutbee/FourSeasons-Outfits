@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>FourSeasons Outfits</title>
+<link rel="icon" href="images/icon.jpg">
+<meta name= "viewport" content="width=device-width,initial-scale=1.0">
+<link rel='stylesheet' href="css/styles.css"/>
+</head>
+<body>
+<div class="col-1">
+     <div class="header fheader1">
+	<img src="images/shoptasty.png" style="width:100px; height:100px">
+  <h2 >FASHION STORE</h2>
+</div>
+</div>
+<div class="col-3"> &nbsp; </div>
+    <div class="col-2">
+    	<div class="fcontent1">
+    		<div><img src="images/fcontent1.jpg" ></div>
+    		<div class="fimage"><div><img style="width:100% ;height:auto" src="images/fcontent2.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/fcontent3.jpg" ></div>
+    		</div>
+    		<div class="fimage"> <div><img style="width:100% ;height:auto" src="images/fcontent4.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/fcontent5.jpg" ></div>
+    		</div>
+    		<div class="fimage"><div><img style="width:100% ;height:auto" src="images/fcontent6.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/fcontent8.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/fcontent7.jpg" ></div>
+    	    </div>
+    		<div class="fimage"><div><img style="width:100% ;height:auto" src="images/fcontent9.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/fcontent10.jpg" ></div>
+
+    		</div>
+    		<div><img src="images/fcontent11.jpg" ></div>
+    		<div><img src="images/category.jpg" ></div>
+    		<div class="fimage2"><div><img style="width:100% ;height:auto" src="images/cat1.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/cat2.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/cat3.jpg" ></div>
+    		                     <div><img style="width:100% ;height:auto" src="images/cat4.jpg" ></div>
+
+    		</div>
+
+
+
+    	</div>
+
+    </div>
+
+
+
+</body>
+</html>
